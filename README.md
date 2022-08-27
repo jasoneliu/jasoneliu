@@ -42,6 +42,9 @@ I'm a full stack developer specializing in Node.js, TypeScript, React, and AWS.
 <a href="https://github.com/jasoneliu/wapo-maps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&hide_border=true&theme=github_dark&repo=wapo-maps" />
 </a>
+<a href="https://github.com/bitcamp/bitcamp-sleeper-site-2023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitcamp&hide_border=true&theme=github_dark&repo=bitcamp-sleeper-site-2023" />
+</a>
 <a href="https://github.com/jasoneliu/umbrella">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&hide_border=true&theme=github_dark&repo=umbrella" />
 </a>
