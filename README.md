@@ -3,7 +3,7 @@ I'm a full stack developer specializing in Node.js, TypeScript, React, and AWS.
 
 ## 💬 About Me
 - I am a Junior at the University of Maryland, studying Computer Science and Mathematics
-- I work at [Arc XP](https://www.arcxp.com/) as a Software Engineering Intern
+- I work at Google as a Software Engineering Intern, developing a sentiment analysis UI module for Google Cloud's [Agent Assist](https://cloud.google.com/agent-assist)
 - I organize two hackathons: [Bitcamp](https://bit.camp/) and [Technica](https://www.gotechnica.org/). This year, I'm a tech co-director for Bitcamp!
 
 ## 🌱 Skills
@@ -21,6 +21,7 @@ I'm a full stack developer specializing in Node.js, TypeScript, React, and AWS.
 
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
