@@ -3,7 +3,7 @@ I'm a full stack developer specializing in Node.js, TypeScript, React, and AWS.
 
 ## 💬 About Me
 - I am a Junior at the University of Maryland, studying Computer Science and Mathematics
-- I work at Google as a Software Engineering Intern, developing a sentiment analysis UI module for Google Cloud's [Agent Assist](https://cloud.google.com/agent-assist)
+- I work at Google as a Software Engineering Intern, developing a sentiment analysis GUI for Google Cloud's [Agent Assist](https://cloud.google.com/agent-assist)
 - I organize two hackathons: [Bitcamp](https://bit.camp/) and [Technica](https://www.gotechnica.org/). This year, I'm a tech co-director for Bitcamp!
 
 ## 🌱 Skills
