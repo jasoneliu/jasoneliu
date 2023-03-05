@@ -37,6 +37,9 @@ I'm a full stack developer specializing in Node.js, TypeScript, React, and AWS.
 </details>
 
 ## 📌 Pinned Repositories
+<a href="https://github.com/jasoneliu/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&hide_border=true&theme=github_dark&repo=portfolio" />
+</a>
 <a href="https://github.com/jasoneliu/typing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&hide_border=true&theme=github_dark&repo=typing" />
 </a>
@@ -51,9 +54,6 @@ I'm a full stack developer specializing in Node.js, TypeScript, React, and AWS.
 </a>
 <a href="https://github.com/jasoneliu/pessoalab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&hide_border=true&theme=github_dark&repo=pessoalab" />
-</a>
-<a href="https://github.com/jasoneliu/zmk-config">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&hide_border=true&theme=github_dark&repo=zmk-config" />
 </a>
 
 ## 📈 GitHub Stats
