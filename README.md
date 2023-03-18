@@ -39,30 +39,30 @@ I'm a full-stack developer specializing in Node.js, TypeScript, React / Angular 
 
 ## 📌 Pinned Repositories
 <a href="https://github.com/jasoneliu/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&hide_border=true&theme=github_dark&repo=portfolio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&repo=portfolio&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" />
 </a>
 <a href="https://github.com/jasoneliu/typing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&hide_border=true&theme=github_dark&repo=typing" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&repo=typing&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" />
 </a>
 <a href="https://github.com/jasoneliu/wapo-maps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&hide_border=true&theme=github_dark&repo=wapo-maps" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&repo=wapo-maps&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" />
 </a>
 <a href="https://github.com/bitcamp/bitcamp-sleeper-site-2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitcamp&hide_border=true&theme=github_dark&repo=bitcamp-sleeper-site-2023" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitcamp&repo=bitcamp-sleeper-site-2023&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" />
 </a>
 <a href="https://github.com/jasoneliu/umbrella">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&hide_border=true&theme=github_dark&repo=umbrella" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&repo=umbrella&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" />
 </a>
 <a href="https://github.com/jasoneliu/pessoalab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&hide_border=true&theme=github_dark&repo=pessoalab" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasoneliu&repo=pessoalab&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" />
 </a>
 
 ## 📈 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasoneliu&hide_border=true&theme=github_dark&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasoneliu&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneliu&hide_border=true&theme=github_dark&hide=jupyter%20notebook&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoneliu&hide=jupyter%20notebook&layout=compact&langs_count=10&title_color=89b4fa&text_color=cdd6f4&icon_color=b4befe&border_color=45475a&bg_color=1e1e2e" />
 </a>
 
 ## 📫 Contact Me
