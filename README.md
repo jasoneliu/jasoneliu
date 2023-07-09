@@ -2,7 +2,7 @@
 I'm a full-stack developer specializing in Node.js, TypeScript, React / Angular / Vue / Svelte, and AWS.
 
 ## 💬 About Me
-- I am a senior at the University of Maryland, douple majoring in Computer Science and Mathematics
+- I am a senior at the University of Maryland, double majoring in Computer Science and Mathematics
 - This summer, I'm a Software Engineering Intern on Google's [Looker Studio Visualizations](https://lookerstudio.google.com/visualization) team
 - I organize two hackathons: [Bitcamp](https://bit.camp/) and [Technica](https://www.gotechnica.org/). This year, I'm a Co-Executive Director at Bitcamp!
 - Learn more about me at [jasoneliu.com](https://www.jasoneliu.com)
